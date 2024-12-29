@@ -1,6 +1,6 @@
 # Olá, eu sou Vitor Barboza! 👋
 
-Bem-vindo ao meu perfil GitHub!
+Eae pessoal,bem vindo ao meu portifolio!!!
 
 ## Sobre mim
 - 🔭 Atualmente estou trabalhando como estoquista em uma loja de calçados e pretendo mudar para carreira de desenvolvedor de software
