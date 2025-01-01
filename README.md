@@ -4,7 +4,7 @@ Eae pessoal,bem vindo ao meu portifolio!!!
 
 ## Sobre mim
 - 🔭 Atualmente estou trabalhando como estoquista em uma loja de calçados e pretendo mudar para carreira de desenvolvedor de software
-- 🌱 Atualmente estou aprendendo Java,Sprig boot,Angular e MySql.
+- 🌱 Atualmente estou aprendendo Python,Machine Learning,Numpy,Sql.
 - 📫 Como entrar em contato comigo: (vitorreisdev76@gmail.com)
 
 
